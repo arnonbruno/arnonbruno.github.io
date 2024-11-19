@@ -3,7 +3,7 @@
 **AI Engineer and PhD Candidate in Artificial Intelligence**  
 Federal University of Paraná, Curitiba, Brazil  
 
-Arnon Bruno V. is a passionate researcher and PhD candidate specializing in **Artificial Intelligence**. His work focuses on cutting-edge AI applications, particularly **Neural Networks, Deep Learning**, and **Autonomous Control Systems**. Currently, he is developing a **neural network controller** for heavy-duty vehicles' gearboxes using differentiable programming, showcasing his dedication to applying AI to solve practical engineering challenges.
+I'm a passionate researcher and PhD candidate specializing in **Artificial Intelligence**. My work focuses on cutting-edge AI applications, particularly **Neural Networks, Deep Learning, AI Agents**, and **Autonomous Control Systems**. Currently, I'm developing a **neural network controller** for heavy-duty vehicles' gearboxes using differentiable programming, showcasing my dedication to applying AI to solve practical energy consumption problems. I'm a strong believer that we can find optimal ways to make better use of energy.
 
 ---
 
