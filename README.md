@@ -23,8 +23,7 @@ I'm a passionate researcher and PhD candidate specializing in **Artificial Intel
 
 ## 🛠️ **Skills**
 - **Programming Languages**: Python, Julia, Mojo, C++, C  
-- **AI Expertise**: AI Agents, Computational Linguistics, Optimization  
-- **Other Tools**: TensorFlow, PyTorch, SciPy  
+- **AI Expertise**: AI Agents, Differentiable Programming, Deep Learning, Computational Linguistics, Optimization  
 
 ---
 
