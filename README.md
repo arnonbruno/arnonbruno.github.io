@@ -3,7 +3,11 @@
 **AI Engineer and PhD Candidate in Artificial Intelligence**  
 Federal University of Paraná, Curitiba, Brazil  
 
-I'm a passionate researcher and PhD candidate specializing in **Artificial Intelligence**. My work focuses on cutting-edge AI applications, particularly **Neural Networks, Deep Learning, AI Agents**, and **Autonomous Control Systems**. Currently, I'm developing a **neural network controller** for heavy-duty vehicles' gearboxes using differentiable programming, showcasing my dedication to applying AI to solve practical energy consumption problems. I'm a strong believer that we can find optimal ways to make better use of energy.
+I'm a passionate AI researcher, PhD candidate, and Principal AI Engineer specializing in Artificial Intelligence. My expertise lies in Neural Networks, Deep Learning, AI Agents, and Autonomous Control Systems, with a strong focus on applying AI to solve real-world energy consumption problems.
+Currently, my research revolves around developing a neural network controller for heavy-duty vehicle gearboxes using differentiable programming, optimizing energy efficiency in transportation.
+Beyond academia, I have hands-on experience in AI applications across industries, having worked as a Senior Data Scientist at Volvo Trucks, a Senior Data Analytics Advisor at ExxonMobil, and a Senior Data Scientist at Junto Seguros.
+I’m also passionate about AI education, serving as a Teaching Assistant for AI-focused courses at the University of Chicago and Brown University - School of Professional Studies, where I help bridge the gap between AI research and business applications.
+I strongly believe in leveraging AI to optimize energy use and drive impactful innovation.
 
 ---
 
@@ -32,6 +36,15 @@ I'm a passionate researcher and PhD candidate specializing in **Artificial Intel
 - Senior Data Scientist @ Volvo Trucks
 - Senior Data Analytics Advisor @ ExxonMobil
 - Senior Data Scientst @ Junto Seguros
+
+---
+
+## 🎓 Teaching & Educational Activities  
+
+- **Teaching Assistant (TA)** – Generative AI for Business @ **University of Chicago**  
+- **Teaching Assistant (TA)** – AI Business and Leadership @ **Brown University - School of Professional Studies**  
+- **Mentor & Speaker** – AI & Data Science topics in industry and academia  
+- **Guest Lecturer** – AI and Machine Learning applications in business and engineering  
 
 ---
 
